@@ -139,5 +139,13 @@ main{
     font-size: 20px;
 }
 .info-des{
-    
+
+}
+/* what i do section */
+#what-i-do-des{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex;
+    justify-content: space-around;
 }
